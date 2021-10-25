@@ -63,11 +63,12 @@ Deliverable 4: A Written Report on the Neural Network Model
 
 ### Create a bin for classification:
 
-![alttext](https://github.com/mbehr11/Neural_Network_Charity_Analysis/blob/main/Resources/classification_bin.PNG)
+![alttext](https://github.com/mbehr11/Neural_Network_Charity_Analysis/blob/main/Resources/classfication_bins.PNG)
 
 ### Increasing or decreasing the number of values for each bin:
 
 ![alttext](https://github.com/mbehr11/Neural_Network_Charity_Analysis/blob/main/Resources/increase_namecounts.PNG)
+
 
 ![alttext](https://github.com/mbehr11/Neural_Network_Charity_Analysis/blob/main/Resources/lessthan5_name_counts.PNG)
 
