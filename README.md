@@ -13,77 +13,77 @@ Deliverable 4: A Written Report on the Neural Network Model
 1.	## Deliverable 1: Preprocessing Data for a Neural Network Model:
 
 
-![alttext]( Resources/application_df .PNG) 
+![alttext](https://github.com/mbehr11/Neural_Network_Charity_Analysis/tree/main/Resources/application_df .PNG) 
 
 
 2.	## Deliverable 2: Compile, Train, and Evaluate the Model:
 
-![alttext]( Resources/compile_train&evaluate_model.PNG)
+![alttext](https://github.com/mbehr11/Neural_Network_Charity_Analysis/tree/main/Resources/compile_train&evaluate_model.PNG)
 
 •	## Model_summary:
 
-![alttext]( Resources/model_summary.PNG)
+![alttext]( https://github.com/mbehr11/Neural_Network_Charity_Analysis/tree/main/Resources/model_summary.PNG)
 
 •	### Compile model:
 
-![alttext]( Resources/compile_model.PNG)
+![alttext](https://github.com/mbehr11/Neural_Network_Charity_Analysis/tree/main/Resources/compile_model.PNG)
 
 
 •	### Create a callback for every epoch:
 
 
-![alttext]( Resources/callback_model.PNG)
+![alttext](https://github.com/mbehr11/Neural_Network_Charity_Analysis/tree/main/Resources/callback_model.PNG)
 
 •	### Train the model:
 
-![alttext]( Resources/train_model.PNG)
+![alttext]( https://github.com/mbehr11/Neural_Network_Charity_Analysis/tree/main/Resources/train_model.PNG)
 
 •	### Evaluate_model:
 
-![alttext]( Resources/evaluate_model.PNG)
+![alttext]( https://github.com/mbehr11/Neural_Network_Charity_Analysis/tree/main/Resources/evaluate_model.PNG)
 
 •	### Export_model:
 
-![alttext]( Resources/export_model.PNG)
+![alttext]( https://github.com/mbehr11/Neural_Network_Charity_Analysis/tree/main/Resources/export_model.PNG)
 
 
 3.	## Deliverable 3: Optimize the Model:
 •	### Adjusting the input data to ensure that there are no variables or outliers that are causing confusion in the model, such as:
 
-![alttext]( Resources/dropped_EIN.PNG)
+![alttext](https://github.com/mbehr11/Neural_Network_Charity_Analysis/tree/main/Resources/dropped_EIN.PNG)
 
 •	### Created a bin for names:
 
-![alttext]( Resources/name_bin.PNG)
+![alttext](https://github.com/mbehr11/Neural_Network_Charity_Analysis/tree/main/Resources/name_bin.PNG)
 
 •	### Created a bin for application_type:
 
-![alttext]( Resources/application_type_bin.PNG)
+![alttext]( https://github.com/mbehr11/Neural_Network_Charity_Analysis/tree/main/Resources/application_type_bin.PNG)
 
 •	### Create a bin for classification:
 
-![alttext]( Resources/classification_bin.PNG)
+![alttext]( https://github.com/mbehr11/Neural_Network_Charity_Analysis/tree/main/Resources/classification_bin.PNG)
 
 •	### Increasing or decreasing the number of values for each bin:
 
-![alttext]( Resources/increase_namecounts.PNG)
+![alttext]( https://github.com/mbehr11/Neural_Network_Charity_Analysis/tree/main/Resources/increase_namecounts.PNG)
 
-![alttext]( Resources/lessthan5_name_counts.PNG)
+![alttext]( https://github.com/mbehr11/Neural_Network_Charity_Analysis/tree/main/Resources/lessthan5_name_counts.PNG)
 
 •	### Adding more neurons to a hidden layer:
 
-![alttext]( Resources/addmore_neurons. PNG)
+![alttext]( https://github.com/mbehr11/Neural_Network_Charity_Analysis/tree/main/Resources/addmore_neurons. PNG)
 
 
 
 •	### Adding more hidden layers.
 
 
-![alttext]( Resources/third_layer. PNG)
+![alttext](https://github.com/mbehr11/Neural_Network_Charity_Analysis/tree/main/Resources/third_layer. PNG)
 
 •	### Evaluate the model after optimization:
 
-![alttext]( Resources/evaluate_model_test2. PNG)
+![alttext](https://github.com/mbehr11/Neural_Network_Charity_Analysis/tree/main/Resources/evaluate_model_test2. PNG)
 
 4.	## Deliverable 4: A Written Report on the Neural Network Model:
 
