@@ -13,7 +13,7 @@ Deliverable 4: A Written Report on the Neural Network Model
 1.	## Deliverable 1: Preprocessing Data for a Neural Network Model:
 
 
-![alttext](https://github.com/mbehr11/Neural_Network_Charity_Analysis/tree/main/Resources/application_df .PNG) 
+![alttext](https://github.com/mbehr11/Neural_Network_Charity_Analysis/tree/main/Resources/application_df.PNG) 
 
 
 2.	## Deliverable 2: Compile, Train, and Evaluate the Model:
